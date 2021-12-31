@@ -1,5 +1,5 @@
 # noahleesutton-source
-[noahleesutton.com](https://noahleesutton-dotcom.uc.r.appspot.com/)
+[noahleesutton.com](https://noahleesutton.com/)
 
 The source repo for my personal website. 
 
